@@ -1,4 +1,5 @@
-numpy
-pandas
-plotly
 streamlit
+pandas
+numpy
+plotly
+requests
